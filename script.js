@@ -1,6 +1,6 @@
 //Make a request to the open weather map API for the current local weather
 var baseURL = 'https://api.openweathermap.org/data/2.5'
-var apiKey = 'fd91f2afeb136edd367f1401e1aefc53'
+var apiKey = 'MYAPITOKEN' //cannot show token online!
 // var lat = '40.3526'
 // var lon = '-74.4402'
 var url = (baseURL + '/weather?appid=' + apiKey)
